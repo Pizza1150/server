@@ -24,7 +24,14 @@ BOSS_GOLEM_4:
     
     enchants:
       luck_of_the_sea: 1.0
+      
     hide-enchants: true
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
