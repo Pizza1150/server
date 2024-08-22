@@ -38,68 +38,111 @@ BOSS_GOLEM_4:
 BOSS_GOLEM_3:
   base:
     material: CHAINMAIL_LEGGINGS
+    name: <#C4C4C4>กางเกงโกเล็มหิน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     lore-format: item
-    tier: 2B
-    upgrade:
-      template: a1
+
     required-level: 10.0
+    tier: 2B
+    
     max-health:
       min: 15.0
       max: 20.0
     stamina-regeneration: 1.0
-    name: <#C4C4C4>กางเกงโกเล็มหิน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 600.0
+
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: a1
+    
     gem-sockets:
     - armor
+    
     enchants:
       luck_of_the_sea: 1.0
+      
     hide-enchants: true
-    custom-can-reroll: 1.0
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
 
 BOSS_GOLEM_2:
   base:
     material: CHAINMAIL_CHESTPLATE
     name: <#C4C4C4>เสื้อโกเล็มหิน
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
-    max-durability: 600.0
+    lore-format: item
+
+    required-level: 10.0
+    tier: 2B
+    
     max-health:
       min: 15.0
       max: 20.0
     health-regeneration: 1.0
+    max-durability: 600.0
+
+    custom-can-reroll: 1.0
+    
     upgrade:
       template: a1
-    tier: 2B
-    lore-format: item
-    required-level: 10.0
+    
     gem-sockets:
     - armor
+    
     enchants:
       luck_of_the_sea: 1.0
+      
     hide-enchants: true
-    custom-can-reroll: 1.0
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
 
 BOSS_GOLEM_1:
   base:
     material: CHAINMAIL_HELMET
-    required-level: 10.0
-    max-durability: 600.0
-    tier: 2B
-    max-mana: 3.5
+    name: <#C4C4C4>หมวกโกเล็มหิน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     lore-format: item
+    
+    required-level: 10.0
+    tier: 2B
+    
     max-health:
       min: 15.0
       max: 20.0
+    max-mana: 3.5
+    max-durability: 600.0
+    
+    custom-can-reroll: 1.0
+    
     upgrade:
       template: a1
+      
     gem-sockets:
     - armor
-    name: <#C4C4C4>หมวกโกเล็มหิน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    
     enchants:
       luck_of_the_sea: 1.0
+      
     hide-enchants: true
-    custom-can-reroll: 1.0
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
