@@ -38,6 +38,7 @@ SALAMANDER:
   base:
     material: PAPER
     name: <#DE1B00>รูนซาลาแมนเดอร์
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
     custom-model-data: 18228.0
     lore-format: gem
 
