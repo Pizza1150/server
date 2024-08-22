@@ -14,6 +14,9 @@ CRAFT_SPEAR1:
     critical-strike-power: 1.0
     max-durability: 100.0
 
+    upgrade:
+      template: w1
+
     disable-smelting: true
     disable-crafting: true
     disable-smithing: true
@@ -27,15 +30,25 @@ CRAFT_SPEAR2:
     material: DIAMOND_SWORD
     custom-model-data: 10628.0
     name: <#D66D27>หอกไม้แปรรูป
-    max-durability: 200.0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
     lore-format: item
+
+    required-level: 5.0
+    tier: 2B
+    
     attack-damage: 10.0
     critical-strike-chance: 3.0
     critical-strike-power: 2.0
-    required-level: 5.0
-    tier: 2B
+    max-durability: 200.0
+    
     upgrade:
       template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
@@ -43,33 +56,53 @@ CRAFT_SPEAR3:
   base:
     material: DIAMOND_SWORD
     custom-model-data: 10597.0
-    max-durability: 300.0
+    name: <#BEBEBE>หอกเงิน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    lore-format: item
+    
     required-level: 10.0
+    tier: 3B
+    
     attack-damage: 15.0
     critical-strike-chance: 4.0
     critical-strike-power: 3.0
-    tier: 3B
+    max-durability: 300.0
+    
     upgrade:
       template: w1
-    lore-format: item
-    name: <#BEBEBE>หอกเงิน
 
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+    
 
 
 CRAFT_SPEAR4:
   base:
     material: DIAMOND_SWORD
-    max-durability: 400.0
+    custom-model-data: 10777.0
+    name: <#D2D4D7>หอกเงางาม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
     lore-format: item
+    
     required-level: 15.0
+    tier: 4B
+    
     attack-damage: 20.0
     critical-strike-chance: 5.0
     critical-strike-power: 4.0
-    tier: 4B
+    max-durability: 400.0
+    
     upgrade:
       template: w1
-    custom-model-data: 10777.0
-    name: <#D2D4D7>หอกเงางาม
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
