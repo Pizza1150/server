@@ -618,7 +618,7 @@ BOSS_SALAMANDER_1:
     
     required-level: 20.0
     tier: 4B
-
+    set: SALAMANDER
     max-health:
       min: 45.0
       max: 55.0
@@ -658,6 +658,7 @@ BOSS_SALAMANDER_2:
 
     required-level: 20.0
     tier: 4B
+    set: SALAMANDER
 
     max-health:
       min: 45.0
@@ -698,7 +699,8 @@ BOSS_SALAMANDER_3:
 
     required-level: 20.0
     tier: 4B
-    
+    set: SALAMANDER
+
     max-health:
       min: 45.0
       max: 55.0
@@ -738,6 +740,7 @@ BOSS_SALAMANDER_4:
 
     required-level: 20.0
     tier: 4B
+    set: SALAMANDER
 
     max-health:
       min: 45.0
@@ -1025,7 +1028,7 @@ CRAFT_IRON_A2:
 CRAFT_IRON_A3:
   base:
     material: IRON_LEGGINGS  
-    name: <#C6C6C6>dกางเกงเหล็กกล้า
+    name: <#C6C6C6>กางเกงเหล็กกล้า
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     lore-format: item
 
@@ -1051,7 +1054,7 @@ CRAFT_IRON_A3:
 CRAFT_IRON_A4:
   base:
     material: IRON_BOOTS
-    name: <#AC7A4A>รองเท้าเหล็กกล้า
+    name: <#C6C6C6>รองเท้าเหล็กกล้า
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     lore-format: item
 
