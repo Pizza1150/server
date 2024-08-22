@@ -1,1 +1,55 @@
+1. มนุษย์  โดดเด่น  บาลานซ์ 
+ base
+ ATTACK 1.5 
+ HP 30
+ SP 20
+ stamina 30
+ movement 0.1
 
+2. เอลฟ์  โดดเด่น  มานา ความเร็ว
+ base
+ ATTACK 1 
+ HP 25
+ SP 30
+ stamina 30
+ movement 0.12
+
+3.ยักษ์  โดดเด่น  เลือดเยอะ ช้า
+ base
+ ATTACK 1.5 
+ HP 40
+ SP 15
+ stamina 30
+ movement 0.097
+
+4.คนแคระ  โดดเด่น โจมตี สตามิน่า
+ base
+ ATTACK 3 
+ HP 25
+ SP 20
+ stamina 35
+ movement 0.1
+
+5.โจรป่า  โดดเด่น โจมตี ความเร็ว
+ base
+ ATTACK 5 
+ HP 25
+ SP 20
+ stamina 30
+ movement 0.15
+
+6.ปีศาจ  โดดเด่น โจมตี เลือดเยอะ สตามิน่า
+ base
+ ATTACK 7
+ HP 40
+ SP 20
+ stamina 35
+ movement 0.1
+ 
+7.นางฟ้า โดดเด่น โจมตี เลือดเยอะ มานา 
+ base
+ ATTACK 4 
+ HP 50
+ SP 40
+ stamina 35
+ movement 0.1
