@@ -13,6 +13,8 @@ BOSS_GOLEM_4:
       max: 20.0
     movement-speed: 0.02
     max-durability: 600.0
+
+    custom-can-reroll: 1.0
     
     upgrade:
       template: a1
@@ -20,11 +22,9 @@ BOSS_GOLEM_4:
     gem-sockets:
     - armor
     
-  
     enchants:
       luck_of_the_sea: 1.0
     hide-enchants: true
-    custom-can-reroll: 1.0
 
 
 
