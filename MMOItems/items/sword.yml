@@ -53,7 +53,7 @@ SLIME_1:
       template: w1
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
@@ -91,7 +91,7 @@ SALAMANDER_3:
       template: w1
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
@@ -129,7 +129,7 @@ SALAMANDER_4:
       template: w2
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
