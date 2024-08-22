@@ -1,0 +1,25 @@
+w1:
+    attack-damage: 2
+    critical-strike-chance: 0.5
+    critical-strike-power: 1
+    
+w2:
+    attack-damage: 4
+    critical-strike-chance: 0.6
+    critical-strike-power: 1.2
+
+w3:
+    attack-damage: 6
+    critical-strike-chance: 0.7
+    critical-strike-power: 1.4
+
+
+
+a1:
+    max-health: 5
+    
+a2:
+    max-health: 7
+
+a3:
+    max-health: 10

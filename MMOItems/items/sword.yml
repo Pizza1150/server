@@ -1,0 +1,246 @@
+NEWBIE:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10945.0
+    name: <#a5c2d0>ดาบนักผจญภัยมือใหม่
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 1.0
+    tier: 1B
+    
+    attack-damage: 6.0
+    critical-strike-chance: 3.0
+    critical-strike-power: 7.0
+    max-durability: 500.0
+    
+    upgrade:
+      template: w1
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+SLIME_1:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10613.0
+    name: <#b4d160>ดาบปราบสไลม์
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 10.0
+    tier: 2B
+    
+    attack-damage:
+      min: 15.0
+      max: 19.0
+    critical-strike-chance:
+      min: 3.0
+      max: 5.0
+    critical-strike-power:
+      min: 7.0
+      max: 9.0
+    max-durability: 800.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w1
+    
+    gem-sockets:
+    - weapon
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+SALAMANDER_3:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10821.0
+    name: <#90bf3b>ดาบซาลาแมนเดอร์
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 15.0
+    tier: 3B
+    
+    attack-damage:
+      min: 30.0
+      max: 40.0
+    critical-strike-chance:
+      min: 5.0
+      max: 10.0
+    critical-strike-power:
+      min: 10.0
+      max: 15.0
+    max-durability: 850.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w1
+    
+    gem-sockets:
+    - weapon
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+SALAMANDER_4:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 11011.0
+    name: <#5dd164>ดาบมรกตซาลาแมนเดอร์
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 20.0
+    tier: 4B
+    
+    attack-damage:
+      min: 45.0
+      max: 55.0
+    critical-strike-chance:
+      min: 10.0
+      max: 15.0
+    critical-strike-power:
+      min: 15.0
+      max: 20.0
+    max-durability: 1200.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w2
+    
+    gem-sockets:
+    - weapon
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_SWORD1:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10505.0
+    name: <#CACACA>ดาบทรุดโทรม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+
+    required-level: 1.0
+    tier: 1B
+    
+    attack-damage: 5.0
+    critical-strike-chance: 1.0
+    critical-strike-power: 1.0
+    max-durability: 100.0
+    
+    upgrade:
+      template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_SWORD2:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10864.0
+    name: <#9D8B77>ดาบสนิม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 5.0
+    tier: 2B
+    
+    attack-damage: 10.0
+    critical-strike-chance: 2.0
+    critical-strike-power: 2.0
+    max-durability: 200.0
+    
+    upgrade:
+      template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_SWORD3:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10494.0
+    name: <#BFBFBF>ดาบเงิน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 10.0
+    tier: 3B
+    
+    attack-damage: 15.0
+    critical-strike-chance: 3.0
+    critical-strike-power: 3.0
+    max-durability: 300.0
+    
+    upgrade:
+      template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_SWORD4:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10509.0
+    name: <#BFBFBF>ดาบเงางาม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 15.0
+    tier: 4B
+    
+    attack-damage: 20.0
+    critical-strike-chance: 4.0
+    critical-strike-power: 4.0
+    max-durability: 400.0
+    
+    upgrade:
+      template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
