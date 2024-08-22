@@ -33,12 +33,61 @@ items:
 # Station recipes
 recipes:
 
-    craft1: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+    craft_sword1: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
 
         # ของได้จากการคราฟ
         output:
             type: SWORD
-            id: CRAFT_SLIME_1
+            id: CRAFT_SWORD1
+            amount: 1
+
+        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=1,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=16}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=5}
+
+    craft_sword2: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: SWORD
+            id: CRAFT_SWORD2
+            amount: 1
+
+        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=5,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=32}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=10}
+        - mmoitem{type=SWORD,id=CRAFT_SWORD1,amount=1}
+
+    craft_sword3: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: SWORD
+            id: CRAFT_SWORD3
             amount: 1
 
         crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
@@ -54,15 +103,16 @@ recipes:
 
         # วัตถุดิบ
         ingredients:
-        - mmoitem{type=MATERIAL,id=DETACHED_EYE,amount=2}
-        - mmoitem{type=MATERIAL,id=SILVER_LEAF,amount=5}
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=20}
+        - mmoitem{type=SWORD,id=CRAFT_SWORD2,amount=1}   
 
-    craft2: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+    craft_sword4: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
 
         # ของได้จากการคราฟ
         output:
             type: SWORD
-            id: CRAFT_SLIME_1
+            id: CRAFT_SWORD4
             amount: 1
 
         crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
@@ -74,11 +124,10 @@ recipes:
 
         # เงื่อนไข
         conditions:
-        - level{level=10,consume=false}
+        - level{level=15,consume=false}
 
         # วัตถุดิบ
         ingredients:
-        - mmoitem{type=MATERIAL,id=DETACHED_EYE,amount=2}
-        - mmoitem{type=MATERIAL,id=SILVER_LEAF,amount=5}
-
-   
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=40}
+        - mmoitem{type=SWORD,id=CRAFT_SWORD3,amount=1} 
