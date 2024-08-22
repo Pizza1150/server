@@ -3,66 +3,106 @@ CRAFT_AXE1:
     material: DIAMOND_SWORD
     custom-model-data: 10502.0
     name: <#9D7A59>ขวานไม้เก่า
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fขวาน'
     lore-format: item
-    max-durability: 100.0
+    
     required-level: 1.0
+    tier: 1B
+    
     attack-damage: 5.0
     critical-strike-chance: 1.0
     critical-strike-power: 2.0
-    tier: 1B
+    max-durability: 100.0
+
     upgrade:
       template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
 CRAFT_AXE2:
   base:
     material: DIAMOND_SWORD
-    name: <#918A84>ขวานเหล็กด้าน
     custom-model-data: 10730.0
-    max-durability: 200.0
+    name: <#918A84>ขวานเหล็กด้าน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fขวาน'
+    lore-format: item
+    
+    required-level: 5.0
+    tier: 2B
+    
     attack-damage: 10.0
     critical-strike-chance: 2.0
     critical-strike-power: 3.0
-    required-level: 5.0
-    tier: 2B
+    max-durability: 200.0
+  
     upgrade:
       template: w1
-    lore-format: item
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
 CRAFT_AXE3:
   base:
     material: DIAMOND_SWORD
-    name: <#918A84>ขวานเหล็กกล้า
-    lore-format: item
-    max-durability: 300.0
     custom-model-data: 10783.0
+    name: <#918A84>ขวานเหล็กกล้า
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fขวาน'
+    lore-format: item
+    
     required-level: 10.0
+    tier: 3B
+    
     attack-damage: 15.0
     critical-strike-chance: 3.0
     critical-strike-power: 4.0
-    tier: 3B
+    max-durability: 300.0
+    
     upgrade:
       template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
 CRAFT_AXE4:
   base:
     material: DIAMOND_SWORD
+    custom-model-data: 10679.0
     name: <#D2D4D7>ขวานเงางาม
-    max-durability: 400.0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fขวาน'
     lore-format: item
+    
     required-level: 15.0
+    tier: 4B
+    
     attack-damage: 20.0
     critical-strike-chance: 4.0
     critical-strike-power: 5.0
-    tier: 4B
+    max-durability: 400.0
+    
     upgrade:
       template: w1
-    custom-model-data: 10679.0
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
