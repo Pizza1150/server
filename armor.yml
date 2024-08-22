@@ -1,41 +1,32 @@
-B1:
-  base:
-    material: LEATHER_BOOTS
-    max-health: 5.0
-    name: <#A2A2A2>ʙ<#AFAFAF>ᴇ<#BCBCBC>ɢ<#C9C9C9>ɪ<#D6D6D6>ɴ<#E3E3E3>ɴ<#D3D3D3>ᴇ<#C3C3C3>ʀ
-      <#A2A2A2>ꜱ<#A2A2A2>ᴜ<#A2A2A2>ɪ<#A2A2A2>ᴛ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
-    lore-format: item
-    max-durability: 500.0
-    required-level: 1.0
-    upgrade:
-      template: a1
-    tier: 1B
-    movement-speed: 0.02
-
-
-
 BOSS_GOLEM_4:
   base:
     material: CHAINMAIL_BOOTS
+    name: <#C4C4C4>รองเท้าโกเล็มหิน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 10.0
+    tier: 2B
+    
     max-health:
       min: 15.0
       max: 20.0
     movement-speed: 0.02
-    lore-format: item
-    tier: 2B
-    required-level: 10.0
+    max-durability: 600.0
+    
     upgrade:
       template: a1
-    max-durability: 600.0
+    
     gem-sockets:
     - armor
-    name: <#C4C4C4>รองเท้าโกเล็มหิน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    
+  
     enchants:
       luck_of_the_sea: 1.0
     hide-enchants: true
     custom-can-reroll: 1.0
+
+
 
 BOSS_GOLEM_3:
   base:
