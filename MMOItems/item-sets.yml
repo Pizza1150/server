@@ -160,7 +160,7 @@ SETB:
             attack-damage: 5
         '4':
             max-health: 15 
-     lore-tag:
+    lore-tag:
         - '<#b4ff6b>■ <#F14827>โบนัสสวมใส่'
         - '<#b4ff6b>■ [2] &7พลังโจมตี : &f+5'
         - '<#b4ff6b>■ [4] &7พลังชิวิต : &f+15'
