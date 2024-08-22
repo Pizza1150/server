@@ -298,6 +298,7 @@ CRAFT_SALAMANDER:
     material: LEATHER_HELMET
     name: <#069B1C>ห<#069B1C>ม<#069B1C>ว<#069B1C>ก<#069B1C>ซ<#069B1C>า<#069B1C>ล<#069B1C>า<#069B1C>แ<#069B1C>ม<#069B1C>น<#069B1C>เ<#069B1C>ด<#069B1C>อ<#069B1C>ร<#069B1C>์
     dye-color: 100 255 100
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     lore-format: item
     tier: 3B
     max-durability: 750.0
@@ -316,6 +317,7 @@ CRAFT_SALAMANDER:
 CRAFT_SALAMANDER_2:
   base:
     material: LEATHER_CHESTPLATE
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 750.0
     dye-color: 100 255 100
     upgrade:
@@ -336,6 +338,7 @@ CRAFT_SALAMANDER_2:
 CRAFT_SALAMANDER_3:
   base:
     material: LEATHER_LEGGINGS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 750.0
     lore-format: item
     stamina-regeneration: 1.1
@@ -357,6 +360,7 @@ CRAFT_SALAMANDER_4:
   base:
     material: LEATHER_BOOTS
     max-durability: 750.0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     lore-format: item
     required-level: 15.0
     movement-speed: 0.02
@@ -376,6 +380,7 @@ CRAFT_SALAMANDER_4:
 BOSS_SALAMANDER:
   base:
     material: LEATHER_HELMET
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 850.0
     name: <#DE1B00>ห<#DE1B00>ม<#DE1B00>ว<#DE1B00>ก<#DE1B00>ซ<#DE1B00>า<#DE1B00>ล<#DE1B00>า<#DE1B00>แ<#DE1B00>ม<#DE1B00>น<#DE1B00>เ<#DE1B00>ด<#DE1B00>อ<#DE1B00>ร<#DE1B00>์<#DE1B00>ไ<#DE1B00>ฟ
     lore-format: item
@@ -400,6 +405,7 @@ BOSS_SALAMANDER_2:
   base:
     material: LEATHER_CHESTPLATE
     dye-color: 255 20 0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 850.0
     enchants:
       luck_of_the_sea: 1.0
@@ -422,6 +428,7 @@ BOSS_SALAMANDER_2:
 BOSS_SALAMANDER_3:
   base:
     material: LEATHER_LEGGINGS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 850.0
     name: <#DE1B00>ก<#DE1B00>า<#DE1B00>ง<#DE1B00>เ<#DE1B00>ก<#DE1B00>ง<#DE1B00>ซ<#DE1B00>า<#DE1B00>ล<#DE1B00>า<#DE1B00>แ<#DE1B00>ม<#DE1B00>น<#DE1B00>เ<#DE1B00>ด<#DE1B00>อ<#DE1B00>ร<#DE1B00>์<#DE1B00>ไ<#DE1B00>ฟ
     enchants:
@@ -445,6 +452,7 @@ BOSS_SALAMANDER_3:
 BOSS_SALAMANDER_4:
   base:
     material: LEATHER_BOOTS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 850.0
     name: <#DE1B00>ร<#DE1B00>อ<#DE1B00>ง<#DE1B00>เ<#DE1B00>ท<#DE1B00>้<#DE1B00>า<#DE1B00>ซ<#DE1B00>า<#DE1B00>ล<#DE1B00>า<#DE1B00>แ<#DE1B00>ม<#DE1B00>น<#DE1B00>เ<#DE1B00>ด<#DE1B00>อ<#DE1B00>ร<#DE1B00>์<#DE1B00>ไ<#DE1B00>ฟ
     enchants:
@@ -468,6 +476,7 @@ BOSS_SALAMANDER_4:
 CRAFT_WOOD_A1:
   base:
     material: LEATHER_HELMET
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     name: <#AC7A4A>หมวกเกราะไม้
     max-durability: 300.0
     required-level: 1.0
@@ -482,6 +491,7 @@ CRAFT_WOOD_A1:
 
 CRAFT_WOOD_A2:
   base:
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     material: LEATHER_CHESTPLATE
     name: <#AC7A4A>เสื้อเกราะไม้
     lore-format: item
@@ -498,6 +508,7 @@ CRAFT_WOOD_A2:
 CRAFT_WOOD_A3:
   base:
     material: LEATHER_LEGGINGS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 300.0
     name: <#AC7A4A>กางเกงเกราะไม้
     tier: 1B
@@ -513,6 +524,7 @@ CRAFT_WOOD_A3:
 CRAFT_WOOD_A4:
   base:
     material: LEATHER_BOOTS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
     max-durability: 300.0
     name: <#AC7A4A>รองเท้าเกราะไม้
     lore-format: item
@@ -522,3 +534,67 @@ CRAFT_WOOD_A4:
       template: a1
     required-level: 1.0
     tier: 1B
+
+
+
+CRAFT_LEATHER_A1:
+  base:
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    material: LEATHER_HELMET
+    name: <#AC7A4A>หมวกหนังคุณภาพ
+    max-durability: 400.0
+    required-level: 5.0
+    tier: 2B
+    upgrade:
+      template: a1
+    lore-format: item
+    max-health: 15.0
+    max-mana: 2.5
+
+
+
+CRAFT_LEATHER_A2:
+  base:
+    material: LEATHER_CHESTPLATE
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    name: <#AC7A4A>เสื้อหนังคุณภาพ
+    lore-format: item
+    required-level: 5.0
+    tier: 2B
+    upgrade:
+      template: a1
+    max-health: 15.0
+    health-regeneration: 1.5
+    max-durability: 400.0
+
+
+
+CRAFT_LEATHER_A3:
+  base:
+    material: LEATHER_LEGGINGS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    max-durability: 400.0
+    name: <#AC7A4A>กางเกงหนังคุณภาพ
+    tier: 2B
+    max-health: 15.0
+    stamina-regeneration: 1.5
+    lore-format: item
+    upgrade:
+      template: a1
+    required-level: 5.0
+
+
+
+CRAFT_LEATHER_A4:
+  base:
+    material: LEATHER_BOOTS
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    max-durability: 400.0
+    name: <#AC7A4A>รองเท้าหนังคุณภาพ
+    lore-format: item
+    movement-speed: 0.015
+    max-health: 15.0
+    upgrade:
+      template: a1
+    required-level: 5.0
+    tier: 2B 
