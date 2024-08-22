@@ -144,32 +144,52 @@ CRAFT_SWORD1:
     material: DIAMOND_SWORD
     custom-model-data: 10505.0
     name: <#CACACA>ดาบทรุดโทรม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
     lore-format: item
+
+    required-level: 1.0
+    tier: 1B
+    
     attack-damage: 5.0
     critical-strike-chance: 1.0
     critical-strike-power: 1.0
-    tier: 1B
     max-durability: 100.0
-    required-level: 1.0
+    
     upgrade:
       template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
 CRAFT_SWORD2:
   base:
     material: DIAMOND_SWORD
-    max-durability: 200.0
     custom-model-data: 10864.0
     name: <#9D8B77>ดาบสนิม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
     lore-format: item
+    
     required-level: 5.0
     tier: 2B
+    
     attack-damage: 10.0
     critical-strike-chance: 2.0
     critical-strike-power: 2.0
+    max-durability: 200.0
+    
     upgrade:
       template: w1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
 
@@ -178,29 +198,49 @@ CRAFT_SWORD3:
     material: DIAMOND_SWORD
     custom-model-data: 10494.0
     name: <#BFBFBF>ดาบเงิน
-    max-durability: 300.0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
     required-level: 10.0
     tier: 3B
+    
     attack-damage: 15.0
     critical-strike-chance: 3.0
     critical-strike-power: 3.0
-    lore-format: item
+    max-durability: 300.0
+    
     upgrade:
       template: w1
 
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
 
 
-CRAFT_SWORD:
+
+CRAFT_SWORD4:
   base:
     material: DIAMOND_SWORD
     custom-model-data: 10509.0
-    max-durability: 400.0
     name: <#BFBFBF>ดาบเงางาม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
     required-level: 15.0
+    tier: 4B
+    
     attack-damage: 20.0
     critical-strike-chance: 4.0
     critical-strike-power: 4.0
+    max-durability: 400.0
+    
     upgrade:
       template: w1
-    lore-format: item
-    tier: 4B
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
