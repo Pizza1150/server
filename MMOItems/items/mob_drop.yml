@@ -7,6 +7,7 @@ ESSENCE_1:
     lore-format: mob_drop
     
     tier: 1B
+
     custom-sell-price: 10.0
 
 
@@ -20,6 +21,7 @@ LOG:
     lore-format: mob_drop
     
     tier: 1B
+
     custom-sell-price: 1.5
 
 
@@ -33,6 +35,7 @@ GOLEM_1:
     lore-format: mob_drop
     
     tier: 1B
+
     custom-sell-price: 5.0
 
 
@@ -46,6 +49,7 @@ GOLEM_2:
     lore-format: mob_drop
     
     tier: 2B
+
     custom-sell-price: 100.0
 
 
@@ -59,6 +63,7 @@ SLIME_1:
     lore-format: mob_drop
     
     tier: 2B
+
     custom-sell-price: 7.0
 
 
@@ -72,54 +77,73 @@ SLIME_2:
     lore-format: mob_drop
     
     tier: 3B
+
     custom-sell-price: 120.0
 
 
 
-CANDY_1:
-  base:
-    material: PAPER
-    custom-model-data: 14764.0
-    name: <#54b3de>ลูกอมกระต่ายรสจืด
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
-    lore-format: mob_drop
+# CANDY_1:
+#   base:
+#     material: PAPER
+#     custom-model-data: 14764.0
+#     name: <#54b3de>ลูกอมกระต่ายรสจืด
+#     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+#     lore-format: mob_drop
     
-    tier: 5G
-    custom-sell-price: 999.0
+#     tier: 5G
+#     custom-sell-price: 999.0
 
 
 
-CANDY_2:
-  base:
-    material: PAPER
-    custom-model-data: 14765.0
-    name: <#eda9af>ลูกอมกระต่ายรสหวาน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
-    lore-format: mob_drop
+# CANDY_2:
+#   base:
+#     material: PAPER
+#     custom-model-data: 14765.0
+#     name: <#eda9af>ลูกอมกระต่ายรสหวาน
+#     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+#     lore-format: mob_drop
     
-    tier: 5D
-    custom-sell-price: 9999.0
+#     tier: 5D
+#     custom-sell-price: 9999.0
+
+
+
 SALAMANDER_1:
   base:
     material: PAPER
     custom-model-data: 14772.0
-    lore-format: mob_drop
-    custom-sell-price: 9.0
-    tier: 2B
     name: <#D2D4D7>เขี้ยวซาลาแมนเดอร์
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 2B
+
+    custom-sell-price: 9.0
+
+
+
 SALAMANDER_2:
   base:
     material: PAPER
     custom-model-data: 14773.0
     name: <#EA461C>เขี้ยวซาลาแมนเดอร์ไฟ
-    custom-sell-price: 140.0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
+
     tier: 3B
-SALAMANDER:
+
+    custom-sell-price: 140.0
+
+
+
+SALAMANDER_3:
   base:
     material: PAPER
     custom-model-data: 18868.0
     name: <#EA351C>หางซาลาแมนเดอร์ไฟ
-    tier: 3B
-    custom-sell-price: 140.0
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
+
+    tier: 3B
+
+    custom-sell-price: 140.0
