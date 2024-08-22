@@ -355,7 +355,7 @@ CRAFT_SLIME_2:
 
     required-level: 10.0
     tier: 2B
-  
+    set: SETB
     max-health:
       min: 10.0
       max: 15.0
@@ -391,6 +391,7 @@ CRAFT_SLIME_3:
     
     required-level: 10.0
     tier: 2B
+    set: SETB
 
     max-health:
       min: 10.0
@@ -427,6 +428,7 @@ CRAFT_SLIME_4:
 
     required-level: 10.0
     tier: 2B
+    set: SETB
 
     max-health:
       min: 10.0
@@ -464,7 +466,8 @@ CRAFT_SALAMANDER_1:
     
     required-level: 15.0
     tier: 3B
-    
+    set: SETB    
+
     max-health:
       min: 35.0
       max: 45.0
@@ -500,7 +503,8 @@ CRAFT_SALAMANDER_2:
     
     required-level: 15.0
     tier: 3B
-    
+    set: SETB
+
     max-health:
       min: 35.0
       max: 45.0
@@ -536,6 +540,7 @@ CRAFT_SALAMANDER_3:
 
     required-level: 15.0
     tier: 3B
+    set: SETB
 
     max-health:
       min: 35.0
@@ -572,6 +577,7 @@ CRAFT_SALAMANDER_4:
   
     required-level: 15.0
     tier: 3B
+    set: SETB
 
     max-health:
       min: 35.0
