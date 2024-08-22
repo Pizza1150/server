@@ -1,0 +1,84 @@
+
+# Name which will be displayed
+# when opening the station
+name: '&fCraft slime'
+
+# The maximum amount of items in the crafting queue ie. the
+# max number of items players are able to craft simultaneously.
+# Must be between 1 and 64.
+max-queue-size: 3
+
+# The sound that plays whenever an action is
+# completed in the crafting station.
+# GET SOUND NAMES HERE:
+# https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+sound: BLOCK_BREWING_STAND_BREW
+
+# This is how the gui looks. You can define your own
+# in crafting-stations/layouts by creating a new
+# file with the name of the file as the id.
+layout: jeweler
+
+# Configure GUI items here
+items:
+    fill:
+        material: AIR
+    no-recipe:
+        material: AIR
+        name: '&8No Recipe'
+    no-queue-item:
+        material: AIR
+        name: '&8No Item in Queue'
+
+# Station recipes
+recipes:
+
+    craft1: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: SWORD
+            id: CRAFT_SLIME_1
+            amount: 1
+
+        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=10,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MATERIAL,id=DETACHED_EYE,amount=2}
+        - mmoitem{type=MATERIAL,id=SILVER_LEAF,amount=5}
+
+    craft2: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: SWORD
+            id: CRAFT_SLIME_1
+            amount: 1
+
+        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=10,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MATERIAL,id=DETACHED_EYE,amount=2}
+        - mmoitem{type=MATERIAL,id=SILVER_LEAF,amount=5}
+
+   
