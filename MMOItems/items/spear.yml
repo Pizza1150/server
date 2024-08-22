@@ -114,24 +114,25 @@ BOSS_SALAMANDER:
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
     lore-format: item
     
-    required-level: 20.0
+    required-level: 25.0
     tier: 5B
-    
+    set: SALAMANDER
+
     attack-damage:
-      min: 45.0
-      max: 55.0
+      min: 50.0
+      max: 60.0
     critical-strike-chance:
       min: 10.0
       max: 15.0
     critical-strike-power:
       min: 15.0
       max: 20.0
-    max-durability: 1200.0
+    max-durability: 1400.0
     
     custom-can-reroll: 1.0
     
     upgrade:
-      template: w2
+      template: w1
     
     gem-sockets:
     - Uncolored
