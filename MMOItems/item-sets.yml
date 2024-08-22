@@ -152,3 +152,9 @@ HATRED:
         - '&7Hatred Set Bonus:'
         - '&8[2] -6% Damage Taken'
         - '&8[2] Summons a devastating fire meteor on hit.'
+
+  SALAMANDER:
+    name: <#F14827>เซ็ตซาลาแมนเดอร์ไฟ
+    bonuses:
+        '2':
+
