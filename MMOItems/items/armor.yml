@@ -157,7 +157,8 @@ BOSS_SLIME_1:
     
     required-level: 13.0
     tier: 3B
-   
+    set: SLIME
+
     max-health:
       min: 35.0
       max: 40.0
@@ -197,6 +198,7 @@ BOSS_SLIME_2:
 
     required-level: 13.0
     tier: 3B
+    set: SLIME
 
     max-health:
       min: 35.0
@@ -238,6 +240,7 @@ BOSS_SLIME_3:
 
     required-level: 13.0
     tier: 3B
+    set: SLIME
 
     max-health:
       min: 35.0
@@ -278,6 +281,7 @@ BOSS_SLIME_4:
 
     required-level: 13.0
     tier: 3B
+    set: SLIME
 
     max-health:
       min: 35.0
@@ -963,3 +967,108 @@ CRAFT_LEATHER_A4:
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
+
+
+
+CRAFT_IRON_A1:
+  base:
+    material: IRON_HELMET
+    name: <#C6C6C6>หมวกเหล็กกล้า
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 10.0
+    tier: 3B
+    set: SETB
+    
+    max-health: 20.0
+    max-mana: 3.0
+    max-durability: 500.0
+
+    upgrade:
+      template: a1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_IRON_A2:
+  base:
+    material: IRON_CHESTPLATE
+    name: <#C6C6C6>เสื้อเกราะเหล็กกล้า
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 10.0
+    tier: 3B
+    set: SETB
+
+    max-health: 20.0
+    health-regeneration: 1.7
+    max-durability: 500.0
+
+    upgrade:
+      template: a1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_IRON_A3:
+  base:
+    material: IRON_LEGGINGS  
+    name: <#C6C6C6>dกางเกงเหล็กกล้า
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 10.0
+    tier: 3B
+    set: SETB
+
+    max-health: 20.0
+    stamina-regeneration: 1.7
+    max-durability: 500.0
+    
+    upgrade:
+      template: a1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_IRON_A4:
+  base:
+    material: IRON_BOOTS
+    name: <#AC7A4A>รองเท้าเหล็กกล้า
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 10.0
+    tier: 3B 
+    set: SETB
+
+    max-health: 20.0
+    movement-speed: 0.017
+    max-durability: 500.0
+
+    upgrade:
+      template: a1
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
