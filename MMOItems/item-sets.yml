@@ -154,13 +154,13 @@ HATRED:
         - '&8[2] Summons a devastating fire meteor on hit.'
 
 SETB:
-    name: <#C39467>เซ็ตดาวทองแดง
+    name: '<#C39467>เซ็ตดาวทองแดง'
     bonuses:
         '2':
             attack-damage: 5
         '4':
             max-health: 15 
      lore-tag:
-       <#b4ff6b>■ <#F14827>โบนัสสวมใส่
-       <#b4ff6b>■ [2] &7พลังโจมตี : &f+5
-       <#b4ff6b>■ [4] &7พลังชิวิต : &f+15
+        - '<#b4ff6b>■ <#F14827>โบนัสสวมใส่'
+        - '<#b4ff6b>■ [2] &7พลังโจมตี : &f+5'
+        - '<#b4ff6b>■ [4] &7พลังชิวิต : &f+15'
