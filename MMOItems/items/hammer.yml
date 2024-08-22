@@ -169,7 +169,7 @@ GOLEM_2:
       template: w1
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
@@ -207,7 +207,7 @@ FUSION_1-2:
       template: w1
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
@@ -246,7 +246,7 @@ SALAMANDER_2:
       template: w1
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
