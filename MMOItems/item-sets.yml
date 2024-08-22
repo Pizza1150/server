@@ -173,7 +173,7 @@ SALAMANDER:
             attack-damage: 5
             max-health: 10
         '4':
-             attack-damage: 5
+            attack-damage: 5
             max-health: 20 
     lore-tag:
         - '<#F16E23>│ เซ็ตซาลาแมนเดอร์ไฟ'
@@ -188,7 +188,7 @@ SLIME:
             attack-damage: 2
             max-health: 5
         '4':
-             attack-damage: 2
+            attack-damage: 2
             max-health: 10 
     lore-tag:
         - '<#2CE721>│ เซ็ตราชาสไลม์'
