@@ -1,0 +1,53 @@
+GOBLIN:
+  base:
+    material: PAPER
+    custom-model-data: 17985.0
+    name: <#bab1b1>รูนโกเล็ม
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    lore-format: gem
+
+    tier: 1B
+
+    attack-damage:
+      min: 0.5
+      max: 2.0
+
+    success-rate: 80.0
+
+
+
+SLIME:
+  base:
+    material: PAPER
+    custom-model-data: 17974.0
+    name: <#62a93e>รูนสไลม์
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    lore-format: gem
+
+    tier: 2B
+
+    max-health:
+      min: 4.0
+      max: 7.0
+    
+    success-rate: 70.0
+  
+
+  
+SALAMANDER:
+  base:
+    material: PAPER
+    name: <#DE1B00>รูนซาลาแมนเดอร์
+    custom-model-data: 18228.0
+    lore-format: gem
+
+    tier: 3B
+
+    attack-damage:
+      min: 2.0
+      max: 5.0
+    max-health:
+      min: 5.0
+      max: 10.0
+    
+    success-rate: 40.0
