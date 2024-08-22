@@ -21,7 +21,7 @@ BOSS_GOLEM_1:
       template: a1
       
     gem-sockets:
-    - armor
+    - Uncolored
     
     enchants:
       luck_of_the_sea: 1.0
@@ -58,7 +58,7 @@ BOSS_GOLEM_2:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
     
     enchants:
       luck_of_the_sea: 1.0
@@ -95,7 +95,7 @@ BOSS_GOLEM_3:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
     
     enchants:
       luck_of_the_sea: 1.0
@@ -132,7 +132,7 @@ BOSS_GOLEM_4:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
     
     enchants:
       luck_of_the_sea: 1.0
@@ -170,7 +170,7 @@ BOSS_SLIME_1:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     enchants:
       luck_of_the_sea: 1.0
@@ -210,7 +210,7 @@ BOSS_SLIME_2:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
     
     enchants:
       luck_of_the_sea: 1.0
@@ -251,7 +251,7 @@ BOSS_SLIME_3:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
     
     enchants:
       luck_of_the_sea: 1.0
@@ -291,7 +291,7 @@ BOSS_SLIME_4:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     enchants:
       luck_of_the_sea: 1.0
@@ -331,7 +331,7 @@ CRAFT_SLIME_1:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     dye-color: 134 223 91
 
@@ -367,7 +367,7 @@ CRAFT_SLIME_2:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
 
     dye-color: 134 223 91
 
@@ -403,7 +403,7 @@ CRAFT_SLIME_3:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     dye-color: 134 223 91
 
@@ -439,7 +439,7 @@ CRAFT_SLIME_4:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
 
     dye-color: 134 223 91
 
@@ -476,7 +476,7 @@ CRAFT_SALAMANDER_1:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     dye-color: 100 255 100
 
@@ -512,7 +512,7 @@ CRAFT_SALAMANDER_2:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
     
     dye-color: 100 255 100
 
@@ -548,7 +548,7 @@ CRAFT_SALAMANDER_3:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     dye-color: 100 255 100
 
@@ -584,7 +584,7 @@ CRAFT_SALAMANDER_4:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
     
     dye-color: 100 255 100
 
@@ -620,7 +620,7 @@ BOSS_SALAMANDER_1:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     enchants:
       luck_of_the_sea: 1.0
@@ -660,7 +660,7 @@ BOSS_SALAMANDER_2:
       template: a1
 
     gem-sockets:
-    - armor    
+    - Uncolored    
 
     enchants:
       luck_of_the_sea: 1.0
@@ -700,7 +700,7 @@ BOSS_SALAMANDER_3:
       template: a1
 
     gem-sockets:
-    - armor
+    - Uncolored
 
     enchants:
       luck_of_the_sea: 1.0
@@ -740,7 +740,7 @@ BOSS_SALAMANDER_4:
       template: a1
     
     gem-sockets:
-    - armor
+    - Uncolored
 
     enchants:
       luck_of_the_sea: 1.0
