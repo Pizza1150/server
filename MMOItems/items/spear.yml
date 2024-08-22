@@ -134,7 +134,7 @@ BOSS_SALAMANDER:
       template: w2
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
