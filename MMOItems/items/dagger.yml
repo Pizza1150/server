@@ -26,7 +26,7 @@ SALAMANDER_1:
       template: w1
     
     gem-sockets:
-    - weapon
+    - Uncolored
     
     disable-smelting: true
     disable-crafting: true
