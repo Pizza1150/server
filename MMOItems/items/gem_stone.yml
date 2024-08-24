@@ -52,3 +52,24 @@ SALAMANDER:
       max: 10.0
     
     success-rate: 40.0
+
+
+
+ORC:
+  base:
+    material: PAPER
+    name: <#DE1B00>รูนคำสาปแห่งออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    custom-model-data: 17980.0
+    lore-format: gem
+
+    tier: 3B
+
+    attack-damage:
+      min: 5.0
+      max: 7.0
+    max-health:
+      min: -5.0
+      max: 5.0
+    
+    success-rate: 40.0
