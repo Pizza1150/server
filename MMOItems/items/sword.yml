@@ -126,7 +126,7 @@ SALAMANDER_4:
     custom-can-reroll: 1.0
     
     upgrade:
-      template: w2
+      template: w1
     
     gem-sockets:
     - Uncolored
@@ -244,3 +244,41 @@ CRAFT_SWORD4:
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
+
+
+
+ORC:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10664.0
+    name: ดาบล่าออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    lore-format: item
+    
+    required-level: 30.0
+    tier: 5B
+    
+    attack-damage:
+      min: 50.0
+      max: 60.0
+    critical-strike-chance:
+      min: 10.0
+      max: 15.0
+    critical-strike-power:
+      min: 15.0
+      max: 20.0
+    max-durability: 1400.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w1
+    
+  
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
