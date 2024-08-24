@@ -33,3 +33,41 @@ SALAMANDER_1:
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
+
+
+
+BOSS_ORC:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10010.0
+    name: มีดสั้นคำสาปแห่งออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fมีดสั้น'
+    lore-format: item
+    
+    required-level: 40.0
+    tier: 1i
+    set: ORC
+   
+    attack-damage:
+      min: 55.0
+      max: 65.0
+    critical-strike-chance:
+      min: 15.0
+      max: 20.0
+    critical-strike-power:
+      min: 1.0
+      max: 10.0
+    max-durability: 1500.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w2
+    
+
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
