@@ -57,6 +57,7 @@ BOSS_ORC:
     critical-strike-power:
       min: 1.0
       max: 10.0
+    movement-speed: 0.005
     max-durability: 1500.0
     
     custom-can-reroll: 1.0
