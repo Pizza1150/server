@@ -142,3 +142,40 @@ BOSS_SALAMANDER:
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
+
+
+
+ORC:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10687.0
+    name: หอกล่าออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    lore-format: item
+    
+    required-level: 30.0
+    tier: 5B
+   
+    attack-damage:
+      min: 50.0
+      max: 60.0
+    critical-strike-chance:
+      min: 15.0
+      max: 20.0
+    critical-strike-power:
+      min: 5.0
+      max: 10.0
+    max-durability: 1400.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w1
+    
+
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
