@@ -1075,3 +1075,290 @@ CRAFT_IRON_A4:
     disable-enchanting: true
     disable-repairing: true
 
+
+CRAFT_ORC1:
+  base:
+    material: LEATHER_HELMET
+    name: หมวกนักฆ่าออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+    
+    required-level: 30.0
+    tier: 4B
+    set: SETB    
+
+    max-health:
+      min: 50.0
+      max: 60.0
+    max-mana: 6.0
+    max-durability: 1000.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+   
+
+    dye-color: 70 20 100
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_ORC2:
+  base:
+    material: LEATHER_CHESTPLATE
+    name: เสื้อเกราะนักฆ่าออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item    
+    
+    required-level: 30.0
+    tier: 4B
+    set: SETB
+
+    max-health:
+      min: 50.0
+      max: 60.0
+    health-regeneration: 1.5
+    max-durability: 1000.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+ 
+    
+    dye-color: 70 20 100
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_ORC3:
+  base:
+    material: LEATHER_LEGGINGS
+    name: กางเกงนักฆ่าออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 30.0
+    tier: 4B
+    set: SETB
+
+    max-health:
+      min: 50.0
+      max: 60.0
+    stamina-regeneration: 1.2
+    max-durability: 1000.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+  
+
+    dye-color: 70 20 100
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+CRAFT_ORC4:
+  base:
+    material: LEATHER_BOOTS
+    name: รองเท้านักฆ่าออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+  
+    required-level: 30.0
+    tier: 4B
+    set: SETB
+
+    max-health:
+      min: 50.0
+      max: 60.0
+    movement-speed: 0.015
+    max-durability: 1000.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+  
+    
+    dye-color: 70 20 100
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+BOSS_ORC1:
+  base:
+    material: LEATHER_HELMET
+    name: หมวกคำสาปแห่งออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+    
+    required-level: 40.0
+    tier: 5B
+    set: SETB    
+
+    max-health:
+      min: 60.0
+      max: 70.0
+    max-mana: 10.0
+    max-durability: 1200.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+   
+
+    dye-color: 20 20 50
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+BOSS_ORC2:
+  base:
+    material: LEATHER_CHESTPLATE
+    name: เสื้อเกราะคำสาปแห่งออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item    
+    
+    required-level: 40.0
+    tier: 5B
+    set: SETB
+
+    max-health:
+      min: 60.0
+      max: 70.0
+    health-regeneration: 1.6
+    max-durability: 1200.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+ 
+    
+    dye-color: 20 20 50
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+BOSS_ORC3:
+  base:
+    material: LEATHER_LEGGINGS
+    name: กางเกงคำสาปออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+
+    required-level: 40.0
+    tier: 5B
+    set: SETB
+
+    max-health:
+      min: 60.0
+      max: 70.0
+    stamina-regeneration: 1.3
+    max-durability: 1200.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+  
+
+    dye-color: 20 20 50
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
+
+
+BOSS_ORC4:
+  base:
+    material: LEATHER_BOOTS
+    name: รองเท้าคำสาปแห่งออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fเกราะ'
+    lore-format: item
+  
+    required-level: 40.0
+    tier: 5B
+    set: SETB
+
+    max-health:
+      min: 60.0
+      max: 70.0
+    movement-speed: 0.015
+    max-durability: 1200.0
+
+    custom-can-reroll: 1.0
+
+    upgrade:
+      template: a1
+
+  
+    
+    dye-color: 20 20 50
+
+    hide-dye: true
+
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
