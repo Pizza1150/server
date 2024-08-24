@@ -179,3 +179,42 @@ ORC:
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
+
+
+
+BOSS_ORC:
+  base:
+    material: DIAMOND_SWORD
+    custom-model-data: 10035.0
+    name: หอกคำสาปแห่งออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    lore-format: item
+    
+    required-level: 40.0
+    tier: 1i
+    set: ORC
+   
+    attack-damage:
+      min: 60.0
+      max: 70.0
+    critical-strike-chance:
+      min: 15.0
+      max: 20.0
+    critical-strike-power:
+      min: 5.0
+      max: 10.0
+    max-durability: 1500.0
+    
+    custom-can-reroll: 1.0
+    
+    upgrade:
+      template: w1
+    
+
+    
+    disable-smelting: true
+    disable-crafting: true
+    disable-smithing: true
+    disable-enchanting: true
+    disable-repairing: true
+
