@@ -1229,7 +1229,7 @@ BOSS_ORC1:
     
     required-level: 40.0
     tier: 5B
-    set: SETB    
+    set: ORC    
 
     max-health:
       min: 60.0
@@ -1265,7 +1265,7 @@ BOSS_ORC2:
     
     required-level: 40.0
     tier: 5B
-    set: SETB
+    set: ORC
 
     max-health:
       min: 60.0
@@ -1301,7 +1301,7 @@ BOSS_ORC3:
 
     required-level: 40.0
     tier: 5B
-    set: SETB
+    set: ORC
 
     max-health:
       min: 60.0
@@ -1337,7 +1337,7 @@ BOSS_ORC4:
   
     required-level: 40.0
     tier: 5B
-    set: SETB
+    set: ORC
 
     max-health:
       min: 60.0
