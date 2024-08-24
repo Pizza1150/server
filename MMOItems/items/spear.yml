@@ -208,7 +208,7 @@ BOSS_ORC:
     custom-can-reroll: 1.0
     
     upgrade:
-      template: w1
+      template: w2
     
 
     
