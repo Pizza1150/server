@@ -11,6 +11,19 @@ ESSENCE_1:
     custom-sell-price: 10.0
 
 
+ESSENCE_2:
+  base:
+    material: PAPER
+    custom-model-data: 14777.0
+    name: <#2BDE3E>แกนวิญญาณมอนสเตอร์ระดับกลาง
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+    
+    tier: 5B
+
+    custom-sell-price: 20.0
+
+
 
 LOG:
   base:
@@ -146,4 +159,114 @@ SALAMANDER_3:
 
     tier: 3B
 
-    custom-sell-price: 140.0
+    custom-sell-price: 140.0 
+
+
+
+ORC_1:
+  base:
+    material: PAPER
+    custom-model-data: 17689.0
+    name: <#BEC2CD>กะโหลกออร์ค
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3B
+
+    custom-sell-price: 10.0
+
+
+
+ORC_2:
+  base:
+    material: PAPER
+    custom-model-data: 17858.0
+    name: <#BEC2CD>กะโหลกออร์คต้องคำสาป
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 4B
+
+
+
+CRAFTW1:
+  base:
+    material: PAPER
+    custom-model-data: 17795.0
+    name: <#BEC2CD>คําภีร์สร้างอาวุธระดับต่ำ
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3B
+
+    custom-sell-price: 10.0
+
+
+
+CRAFTA1:
+  base:
+    material: PAPER
+    custom-model-data: 17805.0
+    name: <#BEC2CD>คําภีร์สร้างชุดเกราะระดับต่ำ
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3B
+
+    custom-sell-price: 10.0
+
+
+
+CRAFTA2:
+  base:
+    material: PAPER
+    custom-model-data: 17807.0
+    name: <#2BDE3E>คําภีร์สร้างชุดเกราะระดับกลาง
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3i
+
+    custom-sell-price: 20.0
+
+
+
+CRAFTW2:
+  base:
+    material: PAPER
+    custom-model-data: 17807.0
+    name: <#2BDE3E>คําภีร์สร้างอาวุธระดับกลาง
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3i
+
+    custom-sell-price: 20.0
+
+
+
+ORE1:
+  base:
+    material: PAPER
+    custom-model-data: 2000.0
+    name: <#BE7146>แร่ทองแดง
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3B
+
+    custom-sell-price: 10.0
+
+
+
+ORE2:
+  base:
+    material: PAPER
+    custom-model-data: 2005.0
+    name: <#BE7146>แร่เงิน
+    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    lore-format: mob_drop
+
+    tier: 3i
+
+    custom-sell-price: 20.0
