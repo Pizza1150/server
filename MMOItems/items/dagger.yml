@@ -65,8 +65,6 @@ BOSS_ORC:
     upgrade:
       template: w2
     
-
-    
     disable-smelting: true
     disable-crafting: true
     disable-smithing: true
