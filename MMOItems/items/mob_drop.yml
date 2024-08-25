@@ -11,6 +11,7 @@ ESSENCE_1:
     custom-sell-price: 10.0
 
 
+
 ESSENCE_2:
   base:
     material: PAPER
