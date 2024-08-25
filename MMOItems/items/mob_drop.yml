@@ -264,7 +264,7 @@ ORE2:
   base:
     material: FEATHER
     custom-model-data: 2005.0
-    name: <#BE7146>แร่เงิน
+    name: <#C6C6C6>แร่เงิน
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
