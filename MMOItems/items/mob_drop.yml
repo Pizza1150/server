@@ -248,7 +248,7 @@ CRAFTW2:
 
 ORE1:
   base:
-    material: PAPER
+    material: FEATHER
     custom-model-data: 2000.0
     name: <#BE7146>แร่ทองแดง
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
@@ -262,7 +262,7 @@ ORE1:
 
 ORE2:
   base:
-    material: PAPER
+    material: FEATHER
     custom-model-data: 2005.0
     name: <#BE7146>แร่เงิน
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
