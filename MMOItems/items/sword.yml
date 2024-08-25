@@ -274,11 +274,8 @@ ORC:
     upgrade:
       template: w1
     
-  
-    
     disable-smelting: true
     disable-crafting: true
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
-
