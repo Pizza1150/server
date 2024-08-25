@@ -1097,9 +1097,7 @@ CRAFT_ORC1:
 
     upgrade:
       template: a1
-
    
-
     dye-color: 70 20 100
 
     hide-dye: true
@@ -1134,8 +1132,6 @@ CRAFT_ORC2:
     upgrade:
       template: a1
 
- 
-    
     dye-color: 70 20 100
 
     hide-dye: true
@@ -1169,8 +1165,6 @@ CRAFT_ORC3:
 
     upgrade:
       template: a1
-
-  
 
     dye-color: 70 20 100
 
@@ -1206,8 +1200,6 @@ CRAFT_ORC4:
     upgrade:
       template: a1
 
-  
-    
     dye-color: 70 20 100
 
     hide-dye: true
@@ -1242,8 +1234,6 @@ BOSS_ORC1:
     upgrade:
       template: a1
 
-   
-
     dye-color: 20 20 50
 
     hide-dye: true
@@ -1277,8 +1267,6 @@ BOSS_ORC2:
 
     upgrade:
       template: a1
-
- 
     
     dye-color: 20 20 50
 
@@ -1314,8 +1302,6 @@ BOSS_ORC3:
     upgrade:
       template: a1
 
-  
-
     dye-color: 20 20 50
 
     hide-dye: true
@@ -1349,8 +1335,6 @@ BOSS_ORC4:
 
     upgrade:
       template: a1
-
-  
     
     dye-color: 20 20 50
 
@@ -1361,4 +1345,3 @@ BOSS_ORC4:
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
-
