@@ -172,8 +172,6 @@ ORC:
     upgrade:
       template: w1
     
-
-    
     disable-smelting: true
     disable-crafting: true
     disable-smithing: true
@@ -210,11 +208,8 @@ BOSS_ORC:
     upgrade:
       template: w2
     
-
-    
     disable-smelting: true
     disable-crafting: true
     disable-smithing: true
     disable-enchanting: true
     disable-repairing: true
-
