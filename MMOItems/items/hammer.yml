@@ -296,7 +296,7 @@ BOSS_ORC:
   base:
     material: DIAMOND_SWORD
     custom-model-data: 10049.0
-    name: ค้อนคำสาปออร์ค
+    name: '<#ba7449>ค้อนคำสาปออร์ค'
     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fค้อน'
     lore-format: item
     
