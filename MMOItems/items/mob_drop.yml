@@ -3,7 +3,7 @@ ESSENCE_1:
     material: PAPER
     custom-model-data: 14776.0
     name: <#9582a1>แกนวิญญาณมอนสเตอร์ระดับต่ำ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 1B
@@ -11,13 +11,12 @@ ESSENCE_1:
     custom-sell-price: 10.0
 
 
-
 ESSENCE_2:
   base:
     material: PAPER
     custom-model-data: 14777.0
     name: <#2BDE3E>แกนวิญญาณมอนสเตอร์ระดับกลาง
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 5B
@@ -31,7 +30,7 @@ LOG:
     material: FEATHER
     custom-model-data: 2021.0
     name: <#987b54>ท่อนไม้
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 1B
@@ -45,7 +44,7 @@ GOLEM_1:
     material: PAPER
     custom-model-data: 17965.0
     name: <#6a4230>เมล็ดพันธุ์โกเล็ม
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 1B
@@ -59,7 +58,7 @@ GOLEM_2:
     material: PAPER
     custom-model-data: 18650.0
     name: <#70746b>แกนกลางโกเล็มโบราณ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 2B
@@ -73,7 +72,7 @@ SLIME_1:
     material: PAPER
     custom-model-data: 14766.0
     name: <#bde35c>เมือกสไลม์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 2B
@@ -87,7 +86,7 @@ SLIME_2:
     material: SLIME_BALL
     custom-model-data: 10048.0
     name: <#7de44e>หัวใจราชาสไลม์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
     
     tier: 3B
@@ -101,7 +100,7 @@ SLIME_2:
 #     material: PAPER
 #     custom-model-data: 14764.0
 #     name: <#54b3de>ลูกอมกระต่ายรสจืด
-#     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+#     displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
 #     lore-format: mob_drop
     
 #     tier: 5G
@@ -114,7 +113,7 @@ SLIME_2:
 #     material: PAPER
 #     custom-model-data: 14765.0
 #     name: <#eda9af>ลูกอมกระต่ายรสหวาน
-#     displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+#     displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
 #     lore-format: mob_drop
     
 #     tier: 5D
@@ -127,7 +126,7 @@ SALAMANDER_1:
     material: PAPER
     custom-model-data: 14772.0
     name: <#D2D4D7>เขี้ยวซาลาแมนเดอร์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 2B
@@ -141,7 +140,7 @@ SALAMANDER_2:
     material: PAPER
     custom-model-data: 14773.0
     name: <#EA461C>เขี้ยวซาลาแมนเดอร์ไฟ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3B
@@ -155,7 +154,7 @@ SALAMANDER_3:
     material: PAPER
     custom-model-data: 18868.0
     name: <#EA351C>หางซาลาแมนเดอร์ไฟ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3B
@@ -169,7 +168,7 @@ ORC_1:
     material: PAPER
     custom-model-data: 17689.0
     name: <#BEC2CD>กะโหลกออร์ค
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3B
@@ -183,7 +182,7 @@ ORC_2:
     material: PAPER
     custom-model-data: 17858.0
     name: <#BEC2CD>กะโหลกออร์คต้องคำสาป
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 4B
@@ -195,7 +194,7 @@ CRAFTW1:
     material: PAPER
     custom-model-data: 17795.0
     name: <#BEC2CD>คําภีร์สร้างอาวุธระดับต่ำ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3B
@@ -209,7 +208,7 @@ CRAFTA1:
     material: PAPER
     custom-model-data: 17805.0
     name: <#BEC2CD>คําภีร์สร้างชุดเกราะระดับต่ำ
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3B
@@ -223,7 +222,7 @@ CRAFTA2:
     material: PAPER
     custom-model-data: 17807.0
     name: <#2BDE3E>คําภีร์สร้างชุดเกราะระดับกลาง
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3i
@@ -237,7 +236,7 @@ CRAFTW2:
     material: PAPER
     custom-model-data: 17807.0
     name: <#2BDE3E>คําภีร์สร้างอาวุธระดับกลาง
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3i
@@ -248,10 +247,10 @@ CRAFTW2:
 
 ORE1:
   base:
-    material: FEATHER
+    material: PAPER
     custom-model-data: 2000.0
     name: <#BE7146>แร่ทองแดง
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3B
@@ -262,10 +261,10 @@ ORE1:
 
 ORE2:
   base:
-    material: FEATHER
+    material: PAPER
     custom-model-data: 2005.0
-    name: <#C6C6C6>แร่เงิน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fวัตถุดิบ'
+    name: <#BE7146>แร่เงิน
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fวัตถุดิบ'
     lore-format: mob_drop
 
     tier: 3i
