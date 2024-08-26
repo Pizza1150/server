@@ -3,7 +3,7 @@ SALAMANDER_1:
     material: DIAMOND_SWORD
     custom-model-data: 10820.0
     name: <#90bf3b>มีดสั้นซาลาแมนเดอร์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fมีดสั้น'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fมีดสั้น'
     lore-format: item
     
     required-level: 15.0
@@ -41,7 +41,7 @@ BOSS_ORC:
     material: DIAMOND_SWORD
     custom-model-data: 10010.0
     name: มีดสั้นคำสาปแห่งออร์ค
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fมีดสั้น'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fมีดสั้น'
     lore-format: item
     
     required-level: 40.0
