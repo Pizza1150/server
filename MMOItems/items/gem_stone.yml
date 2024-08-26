@@ -3,7 +3,7 @@ GOBLIN:
     material: PAPER
     custom-model-data: 17985.0
     name: <#bab1b1>รูนโกเล็ม
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fรูน'
     lore-format: gem
 
     tier: 1B
@@ -21,7 +21,7 @@ SLIME:
     material: PAPER
     custom-model-data: 17974.0
     name: <#62a93e>รูนสไลม์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fรูน'
     lore-format: gem
 
     tier: 2B
@@ -38,7 +38,7 @@ SALAMANDER:
   base:
     material: PAPER
     name: <#DE1B00>รูนซาลาแมนเดอร์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fรูน'
     custom-model-data: 18228.0
     lore-format: gem
 
@@ -59,7 +59,7 @@ ORC:
   base:
     material: PAPER
     name: <#DE1B00>รูนคำสาปแห่งออร์ค
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fรูน'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fรูน'
     custom-model-data: 17980.0
     lore-format: gem
 
