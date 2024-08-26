@@ -3,7 +3,7 @@ CRAFT_SPEAR1:
     material: DIAMOND_SWORD
     custom-model-data: 10643.0
     name: <#A47759>หอกไม้เก่า
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
 
     required-level: 1.0
@@ -30,7 +30,7 @@ CRAFT_SPEAR2:
     material: DIAMOND_SWORD
     custom-model-data: 10628.0
     name: <#D66D27>หอกไม้แปรรูป
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
 
     required-level: 5.0
@@ -57,7 +57,7 @@ CRAFT_SPEAR3:
     material: DIAMOND_SWORD
     custom-model-data: 10597.0
     name: <#BEBEBE>หอกเงิน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
     
     required-level: 10.0
@@ -84,7 +84,7 @@ CRAFT_SPEAR4:
     material: DIAMOND_SWORD
     custom-model-data: 10777.0
     name: <#D2D4D7>หอกเงางาม
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
     
     required-level: 15.0
@@ -111,7 +111,7 @@ BOSS_SALAMANDER:
     material: DIAMOND_SWORD
     custom-model-data: 10038.0
     name: <#cc6a34>หอกเพลิงซาลาแมนเดอร์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
     
     required-level: 25.0
@@ -150,7 +150,7 @@ ORC:
     material: DIAMOND_SWORD
     custom-model-data: 10687.0
     name: หอกล่าออร์ค
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
     
     required-level: 30.0
@@ -185,7 +185,7 @@ BOSS_ORC:
     material: DIAMOND_SWORD
     custom-model-data: 10035.0
     name: หอกคำสาปแห่งออร์ค
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fหอก'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fหอก'
     lore-format: item
     
     required-level: 40.0
