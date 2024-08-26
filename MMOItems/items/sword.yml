@@ -3,7 +3,7 @@ NEWBIE:
     material: DIAMOND_SWORD
     custom-model-data: 10945.0
     name: <#a5c2d0>ดาบนักผจญภัยมือใหม่
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 1.0
@@ -30,7 +30,7 @@ SLIME_1:
     material: DIAMOND_SWORD
     custom-model-data: 10613.0
     name: <#b4d160>ดาบปราบสไลม์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 10.0
@@ -68,7 +68,7 @@ SALAMANDER_3:
     material: DIAMOND_SWORD
     custom-model-data: 10821.0
     name: <#90bf3b>ดาบซาลาแมนเดอร์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 15.0
@@ -106,7 +106,7 @@ SALAMANDER_4:
     material: DIAMOND_SWORD
     custom-model-data: 11011.0
     name: <#5dd164>ดาบมรกตซาลาแมนเดอร์
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 20.0
@@ -144,7 +144,7 @@ CRAFT_SWORD1:
     material: DIAMOND_SWORD
     custom-model-data: 10505.0
     name: <#CACACA>ดาบทรุดโทรม
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
 
     required-level: 1.0
@@ -171,7 +171,7 @@ CRAFT_SWORD2:
     material: DIAMOND_SWORD
     custom-model-data: 10864.0
     name: <#9D8B77>ดาบสนิม
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 5.0
@@ -198,7 +198,7 @@ CRAFT_SWORD3:
     material: DIAMOND_SWORD
     custom-model-data: 10494.0
     name: <#BFBFBF>ดาบเงิน
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 10.0
@@ -225,7 +225,7 @@ CRAFT_SWORD4:
     material: DIAMOND_SWORD
     custom-model-data: 10509.0
     name: <#BFBFBF>ดาบเงางาม
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 15.0
@@ -252,7 +252,7 @@ ORC:
     material: DIAMOND_SWORD
     custom-model-data: 10664.0
     name: ดาบล่าออร์ค
-    displayed-type: '      <#b4ff6b>■  &7ประเภท &8: &fดาบ'
+    displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fดาบ'
     lore-format: item
     
     required-level: 30.0
