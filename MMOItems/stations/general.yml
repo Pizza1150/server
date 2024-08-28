@@ -56,6 +56,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=16}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=5}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=1}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=2}
 
     craft_sword2: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
 
@@ -80,6 +82,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=32}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=10}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=2}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=4}
         - mmoitem{type=SWORD,id=CRAFT_SWORD1,amount=1}
 
     craft_sword3: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
@@ -105,6 +109,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=20}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=3}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=6}
         - mmoitem{type=SWORD,id=CRAFT_SWORD2,amount=1}   
 
     craft_sword4: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
@@ -130,6 +136,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=40}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=4}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=8}
         - mmoitem{type=SWORD,id=CRAFT_SWORD3,amount=1} 
 
 
@@ -157,6 +165,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=16}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=5}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=2}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=1}
 
     craft_spear2: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
 
@@ -181,6 +191,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=32}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=10}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=2}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=4}
         - mmoitem{type=SWORD,id=CRAFT_SWORD1,amount=1}
 
     craft_spear3: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
@@ -206,6 +218,8 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=20}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=3}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=6}
         - mmoitem{type=SWORD,id=CRAFT_SWORD2,amount=1}   
 
     craft_spear4: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
@@ -231,4 +245,6 @@ recipes:
         ingredients:
         - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=40}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=4}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=8}
         - mmoitem{type=SWORD,id=CRAFT_SWORD3,amount=1} 
