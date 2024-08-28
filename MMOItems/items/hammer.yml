@@ -259,7 +259,7 @@ SALAMANDER_2:
 ORC:
   base:
     material: DIAMOND_SWORD
-    custom-model-data: 10831.0
+    custom-model-data: 10807.0
     name: ค้อนล่าออร์ค
     displayed-type: '      <#b4ff6b>■  <#a2b6b5>ประเภท &8: &fค้อน'
     lore-format: item
