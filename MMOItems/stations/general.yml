@@ -41,7 +41,7 @@ recipes:
             id: CRAFT_SWORD1
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 300 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -67,7 +67,7 @@ recipes:
             id: CRAFT_SWORD2
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 400 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -94,7 +94,7 @@ recipes:
             id: CRAFT_SWORD3
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 500 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -121,7 +121,7 @@ recipes:
             id: CRAFT_SWORD4
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 600 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -150,7 +150,7 @@ recipes:
             id: CRAFT_SPEAR1
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 300 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -176,7 +176,7 @@ recipes:
             id: CRAFT_SPER2
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 400 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -193,7 +193,7 @@ recipes:
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=10}
         - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=2}
         - mmoitem{type=MOB_DROPS,id=ORE1,amount=4}
-        - mmoitem{type=SWORD,id=CRAFT_SWORD1,amount=1}
+        - mmoitem{type=SPEAR,id=CRAFT_SPER1,amount=1}
 
     craft_spear3: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
 
@@ -203,7 +203,7 @@ recipes:
             id: CRAFT_SPEAR3
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 500 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -220,7 +220,7 @@ recipes:
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=20}
         - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=3}
         - mmoitem{type=MOB_DROPS,id=ORE1,amount=6}
-        - mmoitem{type=SWORD,id=CRAFT_SWORD2,amount=1}   
+        - mmoitem{type=SPEAR,id=CRAFT_SPER2,amount=1}   
 
     craft_spear4: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
 
@@ -230,7 +230,7 @@ recipes:
             id: CRAFT_SPEAR4
             amount: 1
 
-        crafting-time: 60 # รอเท่าไร ถึงจะคราฟเสร็จ
+        crafting-time: 600 # รอเท่าไร ถึงจะคราฟเสร็จ
         
         options:
             output-item: true # Set to false to give no item
@@ -247,4 +247,113 @@ recipes:
         - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=40}
         - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=4}
         - mmoitem{type=MOB_DROPS,id=ORE1,amount=8}
-        - mmoitem{type=SWORD,id=CRAFT_SWORD3,amount=1} 
+        - mmoitem{type=SPEAR,id=CRAFT_SPER3,amount=1} 
+
+
+
+    craft_axe1: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: HEAVY_WEAPON
+            id: CRAFT_AXE1
+            amount: 1
+
+        crafting-time: 300 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=1,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=16}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=5}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=2}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=1}
+
+    craft_axe2: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: HEAVY_WEAPON
+            id: CRAFT_AXE2
+            amount: 1
+
+        crafting-time: 400 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=5,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=32}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=10}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=2}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=4}
+        - mmoitem{type=HEAVY_WEAPON,id=CRAFT_AXE1,amount=1}
+
+    craft_axe3: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: HEAVY_WEAPON
+            id: CRAFT_AXE3
+            amount: 1
+
+        crafting-time: 500 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=10,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=20}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=3}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=6}
+        - mmoitem{type=HEAVY_WEAPON,id=CRAFT_AXE2,amount=1}   
+
+    craft_axe4: # ไอดีตั้งเป็นไรก็ได้ ให้ดูเข้าใจก็พอ
+
+        # ของได้จากการคราฟ
+        output:
+            type: HEAVY_WEAPON
+            id: CRAFT_AXE4
+            amount: 1
+
+        crafting-time: 600 # รอเท่าไร ถึงจะคราฟเสร็จ
+        
+        options:
+            output-item: true # Set to false to give no item
+            silent-craft: false # No sound when item is claimed
+            hide-when-locked: false # Hide in the GUI when conditions are not met
+
+        # เงื่อนไข
+        conditions:
+        - level{level=15,consume=false}
+
+        # วัตถุดิบ
+        ingredients:
+        - mmoitem{type=MOB_DROPS,id=LOG,amount=64}
+        - mmoitem{type=MOB_DROPS,id=ESSENCE,amount=40}
+        - mmoitem{type=MOB_DROPS,id=CRAFTW1,amount=4}
+        - mmoitem{type=MOB_DROPS,id=ORE1,amount=8}
+        - mmoitem{type=HEAVY_WEAPON,id=CRAFT_AXE3,amount=1} 
