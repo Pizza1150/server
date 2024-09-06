@@ -4,3 +4,39 @@
   [5]: 
        max-health: 100
        health-regeneration: 1
+
+
+
+เทพแห่งสงคราม (GOD_OF_WAR):
+  [2]: attack-damage: 10
+  [4]: attack-damage: 20
+  [5]: 
+       attack-damage: 30
+       critical-strike-power: 5
+
+
+
+ปีศาจจอมหิวโหย (HUNGRY_DEMON):
+  [2]: lifesteal: 1
+  [4]: lifesteal: 2
+  [5]: 
+       lifesteal: 3
+       attack-damage: 15
+
+
+
+นักฆ่าผู้ลอบเร้น (STEALTH_ASSSASIN):
+  [2]: critical-strike-chance: 3
+  [4]: critical-strike-chance: 6
+  [5]: 
+       critical-strike-chance: 10
+       critical-strike-power: 10
+
+
+
+ป้อมปราการทนทาน (BASTION):
+[2]: critical-resistance: 3
+[4]: critical-resistance: 6
+[5]: 
+     critical-resistance: 10
+     max-health: 50
