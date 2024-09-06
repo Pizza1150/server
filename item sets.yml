@@ -1,0 +1,6 @@
+นักรบเหล็กกล้า (IRON_WARRIOR):
+  [2]: max-health: 20
+  [4]: max-health: 50
+  [5]: 
+       max-health: 100
+       health-regeneration: 1
