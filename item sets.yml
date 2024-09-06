@@ -35,8 +35,8 @@
 
 
 ป้อมปราการทนทาน (BASTION):
-[2]: critical-resistance: 3
-[4]: critical-resistance: 6
-[5]: 
-     critical-resistance: 10
-     max-health: 50
+  [2]: critical-resistance: 3
+  [4]: critical-resistance: 6
+  [5]: 
+       critical-resistance: 10
+       max-health: 50
