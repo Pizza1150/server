@@ -17,10 +17,10 @@
 
 
 ปีศาจจอมหิวโหย (HUNGRY_DEMON):
-  [2]: lifesteal: 1
-  [4]: lifesteal: 2
+  [2]: lifesteal: 0.1
+  [4]: lifesteal: 0.2
   [5]: 
-       lifesteal: 3
+       lifesteal: 0.3
        attack-damage: 15
 
 
