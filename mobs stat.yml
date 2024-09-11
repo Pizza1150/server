@@ -1,1 +1,8 @@
+# Zone 1
+Stone Minion:
+  DMG: 3
+  HP: 60
 
+Stone Golem:
+  DMG: 6
+  HP: 90
