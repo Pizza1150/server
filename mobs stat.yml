@@ -6,3 +6,16 @@ Stone Minion:
 Stone Golem:
   DMG: 6
   HP: 90
+
+# Zone 2
+Wild Slime:
+  DMG: 6
+  HP: 90
+
+Warrior Slime:
+  DMG: 6
+  HP: 120
+
+Mage Slime:
+  DMG: 9
+  HP: 90
