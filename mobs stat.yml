@@ -19,3 +19,7 @@ Warrior Slime:
 Mage Slime:
   DMG: 9
   HP: 90
+
+Slime King:
+  DMG: 12
+  HP: 4000
