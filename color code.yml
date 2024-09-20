@@ -1,5 +1,4 @@
-prefix: <#FFB733>&l &8»
-success: <#6eff40>
+success: &f <#8ecf32>
 argument: &f
-error: <#ff2828>
-notify: <#ffdd4d>
+error: &f <#de3e23>
+notify: &f<#fed441>
