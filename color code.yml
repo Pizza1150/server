@@ -1,4 +1,4 @@
-success: &f <#8ecf32>
+success: &f <#94cc47>
 argument: &f
-error: &f <#de3e23>
-notify: &f<#fed441>
+error: &f <#b42313>
+notify: &f <#f0b341>
