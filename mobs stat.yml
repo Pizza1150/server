@@ -23,3 +23,12 @@ Mage Slime:
 Slime King:
   DMG: 12
   HP: 4000
+
+# Zone 3
+Salamander:
+  DMG: 12
+  HP: 150
+
+Fire Salamander:
+  DMG: 16
+  HP: 200
